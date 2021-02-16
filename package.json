@@ -23,7 +23,7 @@
   "files": [
     "android/",
     "ios/",
-    "windows/"
+    "windows/",
     "js/",
     "index.js"
   ],
